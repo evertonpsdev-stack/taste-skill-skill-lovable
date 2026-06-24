@@ -1,0 +1,85 @@
+# Repository map — Leonxlnx/taste-skill
+
+```
+- .claude-plugin/
+  - marketplace.json
+  - plugin.json
+- .github/
+  - copilot-instructions.md
+  - FUNDING.yml
+- assets/
+  - .gitkeep
+  - readme-banner.webp
+  - readme-buttons/
+    - btn-agent-skills.webp
+    - btn-changelog.webp
+    - btn-mit.webp
+    - btn-site.webp
+    - btn-tools.webp
+  - readme-cta-tasteskill.svg
+  - sponsors/
+    - animations-dev.webp
+    - emil-animations-dev.webp
+  - taste-skill-logo.png
+  - taste-skill-logo.webp
+  - vercel-oss-program-badge.svg
+- CHANGELOG.md
+- examples/
+  - floria-bottom.webp
+  - floria-full.webp
+  - floria-top.webp
+- LICENSE
+- README.md
+- research/
+  - laziness/
+    - findings/
+      - empirical-results.md
+      - references.md
+    - README.md
+    - remediation/
+      - architectural-patterns.md
+      - parameter-tuning.md
+      - prompt-engineering.md
+      - reference-prompts.md
+    - root-causes/
+      - cognitive-shortcuts.md
+      - output-limits.md
+      - rlhf-and-compute.md
+      - training-data-bias.md
+  - README.md
+- scripts/
+  - build-emil-sponsor-row.mjs
+  - convert-readme-assets-webp.mjs
+  - process-readme-buttons.mjs
+  - process-sponsor-badge.mjs
+- skill.sh
+- skills/
+  - brandkit/
+    - SKILL.md
+  - brutalist-skill/
+    - SKILL.md
+  - gpt-tasteskill/
+    - SKILL.md
+  - image-to-code-skill/
+    - SKILL.md
+  - imagegen-frontend-mobile/
+    - SKILL.md
+  - imagegen-frontend-web/
+    - SKILL.md
+  - llms.txt
+  - minimalist-skill/
+    - SKILL.md
+  - output-skill/
+    - SKILL.md
+  - redesign-skill/
+    - SKILL.md
+  - soft-skill/
+    - SKILL.md
+  - stitch-skill/
+    - DESIGN.md
+    - SKILL.md
+  - taste-skill/
+  - taste-skill-v1/
+    - SKILL.md
+    - SKILL.md
+```
