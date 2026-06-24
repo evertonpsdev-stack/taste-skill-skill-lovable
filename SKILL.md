@@ -9,7 +9,7 @@ description: Use when the user wants to use, integrate, configure, or build with
 
 **Repository:** https://github.com/Leonxlnx/taste-skill
 **Homepage:** https://tasteskill.dev
-**Language:** JavaScript  ·  **Stars:** 50074  ·  **License:** MIT
+**Language:** JavaScript  ·  **Stars:** 50100  ·  **License:** MIT
 **Topics:** agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode, nocode, skill, skills, vibecoding
 
 
